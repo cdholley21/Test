@@ -1,6 +1,9 @@
 testing Git
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> new_branch
