@@ -3,7 +3,7 @@ testing Git
 
 <<<<<<< HEAD
 
-
+new stuff
     
 =======
 >>>>>>> new_branch
